@@ -1,6 +1,6 @@
 {
-  "name": "Howtonameit",
-  "tagline": "A collection of names for developers.",
-  "body": "The goal of this website is to provide an easy list of names for things in development.",
+  "name": "How to Name It",
+  "tagline": "A collection of names: for developers, by developers.",
+  "body": "There is a quote that has become famous in development circles:\r\n\r\n> There are only two hard things in Computer Science: cache invalidation and naming things.\r\n> -- Phil Karlton\r\n\r\nThe goal of this site is to provide a reference for possible names of elements, objects, or whatever things need to be named.\r\n\r\nLet's start with a humble example:\r\n\r\n**Container**:\r\n\r\n- Wrapper\r\n- Container\r\n- Parent\r\n- Surround\r\n- Fence\r\n\r\n**Separate Content**:\r\n- Panel\r\n- Block\r\n- Callout\r\n- Box\r\n- Standout\r\n- Widget\r\n\r\n**Group**:\r\n- Cluster\r\n- Collection\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
